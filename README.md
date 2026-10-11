@@ -111,10 +111,10 @@ The dataset covers observations from May 2019 to June 2020 after preprocessing i
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone (https://github.com/Saheli04/Unemployment-Analysis)
 ```
 
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your actual GitHub username and repository name.
+
 
 ### Step 2: Open the project folder
 
