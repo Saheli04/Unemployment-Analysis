@@ -8,11 +8,6 @@ Understanding unemployment trends helps identify differences across regions and 
 
 This project transforms raw unemployment data into a cleaned dataset, exploratory visualizations, statistical summaries, and an interactive dashboard where users can filter and explore the data.
 
-## 🖥️ Dashboard Preview
-
-Here is a preview of the interactive Unemployment Analytics dashboard.
-https://github.com/Saheli04/Unemployment-Analysis/blob/main/images/unemployment-dashboard.png.png
-
 
 
 ## 🎯 Objectives
