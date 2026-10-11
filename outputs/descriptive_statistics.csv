@@ -1,0 +1,9 @@
+,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%)
+count,740.0,740.0,740.0
+mean,11.79,7204460.03,42.63
+std,10.72,8087988.43,8.11
+min,0.0,49420.0,13.33
+25%,4.66,1190404.5,38.06
+50%,8.35,4744178.5,41.16
+75%,15.89,11275489.5,45.5
+max,76.74,45777509.0,72.57

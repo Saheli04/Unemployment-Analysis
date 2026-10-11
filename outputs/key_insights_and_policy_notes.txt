@@ -1,0 +1,25 @@
+UNEMPLOYMENT ANALYSIS: KEY INSIGHTS
+==================================================
+
+1. The average observed unemployment rate was 8.26 percentage points higher during March-June 2020 than before March 2020.
+
+2. Tripura had the highest mean observed unemployment rate among regions in this dataset (28.35%).
+
+3. Meghalaya had the lowest mean observed unemployment rate among regions in this dataset (4.80%).
+
+4. The urban observations had the higher mean unemployment rate in the rural/urban comparison (13.17%).
+
+5. Policy consideration: examine region-specific employment support rather than relying only on a single national average.
+
+6. Policy consideration: assess rural and urban workers separately when designing job placement, training and income-support programmes.
+
+7. Policy consideration: track unemployment alongside labour participation and employment estimates.
+
+8. Limitation: these comparisons show associations over time, not proof that COVID-19 alone caused every observed change.
+
+9. Limitation: the dataset ends in June 2020 and cannot measure the full long-term recovery.
+
+10. Limitation: monthly averages here are unweighted averages of the available region/area observations, not official national rates.
+
+11. Limitation: roughly 14 months of data are insufficient to establish reliable recurring annual seasonality.
+
