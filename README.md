@@ -11,7 +11,7 @@ This project transforms raw unemployment data into a cleaned dataset, explorator
 ## 🖥️ Dashboard Preview
 
 Here is a preview of the interactive Unemployment Analytics dashboard.
-
+https://github.com/Saheli04/Unemployment-Analysis/blob/main/images/unemployment-dashboard.png.png
 
 
 
